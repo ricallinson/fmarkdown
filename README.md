@@ -1,6 +1,6 @@
 # Fmarkdown
 
-Quick and dirty markdown renderer and caching package.
+Quick and dirty markdown renderer and caching package for Go.
 
 	go get github.com/ricallinson/fmarkdown
 
