@@ -1,4 +1,4 @@
-# fmarkdown
+# Fmarkdown
 
 Quick and dirty markdown renderer and caching package.
 
