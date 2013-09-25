@@ -40,5 +40,5 @@ func Render(f string) (string) {
     Clean the cache.
 */
 func Clean() {
-    this.cache = map[string]string
+    this.cache = map[string]string{}
 }
